@@ -1,1 +1,1 @@
-import fire2random
+import all
